@@ -10,7 +10,9 @@ namespace TRPO_PR_5
     {
         static void Main(string[] args)
         {
-            ///Hi
+            Console.WriteLine($"I’m Bondarchuk Eugene and I’m not a monkey.");
+            Console.ReadKey();
+
         }
     }
 }
